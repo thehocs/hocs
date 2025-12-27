@@ -1,0 +1,40 @@
+{
+  "slug": "genz-and-their-risk-factors",
+  "title": "Understanding Gen Z and Their Unique Risk Factors",
+  "excerpt": "Generation Z faces distinct challenges and risk factors shaped by their digital upbringing and societal changes. This article explores these risks and offers insights into how to address them effectively.",
+  "metaDescription": "Explore the unique risk factors affecting Generation Z, including mental health challenges, social media impact, and economic pressures.",
+  "author": "HOCS team",
+  "date": "2025-12-27",
+  "category": "Youth & Society",
+  "readingTime": "7 min read",
+  "image": "https://images.pexels.com/photos/7230226/pexels-photo-7230226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "subIntro": "Generation Z has grown up in a rapidly evolving world, confronting risks unseen by previous generations.",
+  "description": "Born roughly between 1997 and 2012, Generation Z has experienced unprecedented social, technological, and economic shifts. Understanding the risk factors unique to this generation is crucial for parents, educators, and policymakers aiming to support their well-being and growth.",
+  "paras": [
+    {
+      "subHead": "Digital Immersion and Mental Health Challenges",
+      "content": "Gen Z is the first generation to grow up fully immersed in digital technology. While this connectivity offers many benefits, it also exposes them to higher risks of anxiety, depression, and cyberbullying. Constant social media use can amplify feelings of loneliness and inadequacy, contributing to mental health struggles."
+    },
+    {
+      "subHead": "Economic Uncertainty and Career Pressures",
+      "content": "Entering adulthood during times of economic instability, Gen Z faces pressures such as student debt, job market volatility, and rising living costs. This financial uncertainty can increase stress levels and impact their long-term planning and career choices."
+    },
+    {
+      "subHead": "Social and Environmental Awareness",
+      "content": "Gen Z is highly attuned to social justice and environmental issues, often experiencing anxiety related to climate change and societal inequalities. While this awareness motivates activism, it can also create a heightened sense of existential risk and urgency."
+    },
+    {
+      "subHead": "Changing Family Dynamics and Support Systems",
+      "content": "Many Gen Z individuals experience diverse family structures and may face challenges related to parental support, stability, and guidance. These evolving family dynamics can influence their emotional development and resilience."
+    },
+    {
+      "subHead": "Substance Use and Peer Influence",
+      "content": "Exposure to and experimentation with substances remain a notable risk factor for Gen Z, partly influenced by peer pressure and social media portrayals. Awareness and education are key to mitigating these risks and promoting healthier choices."
+    }
+  ],
+  "conclusion": "Generation Z navigates a complex landscape of risk factors that differ markedly from those of previous generations. By understanding these unique challenges, society can better foster supportive environments that promote their mental health, economic stability, and social well-being.",
+  "page": 1,
+  "per_page": 10,
+  "total_results": 3937,
+  "next_page": "https://api.pexels.com/v1/search?orientation=landscape&page=2&per_page=10&query=Generation+Z+risk+factors&size=large"
+}
