@@ -1,0 +1,40 @@
+{
+  "slug": "how-nasa-gets-funding",
+  "title": "How NASA Gets Funding: Understanding the Budget Behind Space Exploration",
+  "excerpt": "NASA's funding is primarily sourced from the United States federal government through the congressional appropriations process. This blog explains how NASA secures its budget and allocates resources for space missions.",
+  "metaDescription": "Learn how NASA secures funding from the US government and manages its budget for space exploration projects and research.",
+  "author": "HOCS team",
+  "date": "2025-12-27",
+  "category": "Space Exploration",
+  "readingTime": "7 min read",
+  "image": "https://images.pexels.com/photos/33931030/pexels-photo-33931030.png?auto=compress&cs=tinysrgb&h=650&w=940",
+  "subIntro": "Discover the financial journey behind NASA’s groundbreaking missions and how government support fuels space exploration.",
+  "description": "NASA, the United States' premier space agency, relies heavily on funding from the federal government. This funding supports everything from scientific research and technology development to manned space missions and satellite launches. Understanding where NASA's money comes from and how it is distributed helps appreciate the scale and complexity of space exploration.",
+  "paras": [
+    {
+      "subHead": "Government Funding Through the Federal Budget",
+      "content": "NASA receives most of its funding from the United States Congress through the annual federal budget process. The President proposes a budget each year, which includes a recommended amount for NASA. Congress then reviews, modifies, and approves this budget as part of overall government spending."
+    },
+    {
+      "subHead": "The Role of NASA’s Budget in Planning Missions",
+      "content": "NASA’s budget determines how many and what types of missions the agency can pursue each year. Funds are allocated across research, technology development, astronaut training, and mission execution. Larger projects like the Artemis program require multi-year budgeting and approval."
+    },
+    {
+      "subHead": "Public and Private Partnerships",
+      "content": "In addition to federal funding, NASA collaborates with private companies and international partners. These partnerships can bring additional resources and innovative technologies, reducing NASA’s direct costs and expanding capabilities."
+    },
+    {
+      "subHead": "Budget Challenges and Political Influence",
+      "content": "NASA’s funding levels are influenced by national priorities, economic conditions, and political considerations. Changes in administration and congressional makeup can affect funding amounts, priorities, and long-term funding stability."
+    },
+    {
+      "subHead": "Oversight and Accountability",
+      "content": "NASA’s use of public funds is subject to oversight by multiple government bodies, ensuring transparency and accountability. Regular audits, performance reports, and congressional hearings help maintain responsible spending."
+    }
+  ],
+  "conclusion": "NASA’s funding is a complex process involving government proposals, congressional decisions, and partnerships. This financial support is critical to advancing space exploration and maintaining the United States' leadership in space science and technology.",
+  "page": 1,
+  "per_page": 10,
+  "total_results": 495,
+  "next_page": "https://api.pexels.com/v1/search?orientation=landscape&page=2&per_page=10&query=NASA+funding&size=large"
+}
